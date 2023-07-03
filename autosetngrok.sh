@@ -4,4 +4,4 @@ echo "Auto Setup Ngrok Token"
 echo "======================="
 wget -O ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 unzip ngrok.zip > /dev/null 2>&1
-./ngrok authtoken 2PDaK22altvyH1fLwVbkYYhA18Z_7q6spjH68f7UNhVAmMpHu #put your authtoken, not my token >:3
+./ngrok authtoken iuhsiuadvinasdv #put your authtoken, not my token >:3
